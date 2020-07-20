@@ -38,3 +38,7 @@
 ![Ablation](ablation.jpg)
 
 ![results on SCUT5500](results_scut-5500.jpg)
+
+
+
+> You can also download the same files from [Google Drive](https://drive.google.com/file/d/1t8zHqp1Z42ZPIavdYVA4Kkf-awWgZblE/view?usp=sharing).
