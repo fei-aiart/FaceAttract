@@ -1,0 +1,10 @@
+下述文件人脸对齐失败: 
+ftw113.jpg
+ftw427.jpg
+fty1180.jpg
+fty1479.jpg
+fty1883.jpg
+fty392.jpg
+mtw108.jpg
+mtw42.jpg
+mty1624.jpg
