@@ -1,7 +1,7 @@
 # Facial Attractiveness Prediction 
 > Pytorch code for our paper: Improving facial attractiveness prediction via co-attention learning.
 
-## Citatation
+## Citation
 
 ```
 @inproceedings{shi2019improving,
@@ -23,6 +23,9 @@
 - pretrain models are released in `pretrain_model`. `net_cross_1` denotes `cross_validation_1`,`net_cross_2` denotes `cross_validation_2`, etc.
 - change the `infofile` and `pretrain` in `option.py` and run `test.py` to check the pretrained model.
 - change the `infofile` and run `main.py` to train your own models.
+- Face parsing
+  - here we use [Face Labling](https://github.com/Liusifei/Face_Parsing_2016) to get face parsing;
+  - An aternative choice: [BiSeNet](https://github.com/zllrunning/face-parsing.PyTorch).
 
 ## Data
 
